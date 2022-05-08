@@ -3,8 +3,10 @@
 
 # Techniques
 ## D3: D3 is a powerful visualization JavaScript library, on the basis of HTML, CSS, and JavaScript.
-### 1, https://d3js.org/
-### 2, https://square.github.io/intro-to-d3/web-standards/
+1, https://d3js.org/
+
+2, https://square.github.io/intro-to-d3/web-standards/
+
 ### 3, https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/
 ### 4, https://github.com/d3/d3/wiki/Tutorials
 
