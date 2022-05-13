@@ -26,6 +26,8 @@
 5, https://machinelearningmastery.com/clustering-algorithms-with-python/
 
 6, https://realpython.com/k-means-clustering-python/
+
+7, https://www.freecodecamp.org/news/8-clustering-algorithms-in-machine-learning-that-all-data-scientists-should-know/
  
 
 
