@@ -1,4 +1,5 @@
-# SURF2022 
+<h1 align="center">SURF 2022</h1>
+
 # Unpacking the evolution of a specific cultural heritage using visual storytelling
 
 # Meeting Schedule
@@ -50,3 +51,8 @@
 ## Spatio-temporal Visualization 
 
 ## Digital Humanity
+
+# Others
+## Github formatting
+
+1， https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
