@@ -2,7 +2,7 @@
 
 # Unpacking the evolution of a specific cultural heritage using visual storytelling
 
-# Meeting Schedule
+
 1, **Title**: A quantitative description of the spatial–temporal distribution and evolution pattern of world cultural heritage ; **Speaker**: Shan Jiang; **Date**: TBD; **Reference**: https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00549-6
 
 2, **Title**: Clustering; **Speaker**: Yang Xiang; **Date**: TBD;
@@ -57,4 +57,15 @@
 # Others
 ## Github formatting
 
-1， https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+1, https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+
+
+# Meeting Schedule
+
+| **Date** | **Speaker**  | **Title**  |  **Reference** |
+| ------- | --- | ---------------- | -------- |
+| TBD   | Jiang Shan | A quantitative description of the spatial–temporal distribution and evolution pattern of world cultural heritage | https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00549-6 |
+|  TBD | Yang Xiang | Clustering | TBD |
+|  TBD | Yiyuan Miao | Visualization of cultural heritage |  https://researchonline.rca.ac.uk/4325/1/TimelineDesignForVisualisingCulturalHeritageData_OliviaVane_redacted.pdf |
+
