@@ -2,7 +2,7 @@
 # Unpacking the evolution of a specific cultural heritage using visual storytelling
 
 # Meeting Schedule
-## Clustering
+### 1, Clustering
 Speaker: Yang Xiang
 
 Date: 6th, June, 2022
