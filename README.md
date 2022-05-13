@@ -3,7 +3,7 @@
 
 # Meeting Schedule
 ### 1, Clustering
-Speaker: Yang Xiang
+$Speaker$: Yang Xiang
 
 Date: 6th, June, 2022
 
