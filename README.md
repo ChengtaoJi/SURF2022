@@ -59,6 +59,7 @@
 
 | **Date** | **Speaker**  | **Title**  |  **Reference** |
 | ------- | --- | ---------------- | -------- |
+| TBD   | Chengyuan Wang| D3 Tutorial | https://d3js.org/ |
 | TBD   | Jiang Shan | A quantitative description of the spatial–temporal distribution and evolution pattern of world cultural heritage | https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00549-6 |
 |  TBD | Yang Xiang | Clustering | TBD |
 |  TBD | Yiyuan Miao | Visualization of cultural heritage |  https://researchonline.rca.ac.uk/4325/1/TimelineDesignForVisualisingCulturalHeritageData_OliviaVane_redacted.pdf |
