@@ -35,7 +35,7 @@
 
 # Articles:
 ## Cultural Heritage Visualization
-1, https://researchonline.rca.ac.uk/4325/1/TimelineDesignForVisualisingCulturalHeritageData_OliviaVane_redacted.pdf
+1, https://researchonline.rca.ac.uk/4325/1/TimelineDesignForVisualisingCulturalHeritageData_OliviaVane_redacted.pdf (https://oliviavane.co.uk/index)
 
 2, https://www.visualcinnamon.com/portfolio/intangible-cultural-heritage/ （https://ich.unesco.org/en/dive&display=sdg#tabs）
 
@@ -45,6 +45,7 @@
 4, http://www.londoncharter.org/introduction.html
 
 5, https://ich.unesco.org/dive/domain/?language=en
+
 
 ## Spatio-temporal Visualization 
 
