@@ -62,6 +62,7 @@
 
 | **Date** | **Speaker**  | **Title**  |  **Reference** |
 | ------- | --- | ---------------- | -------- |
+| TBD     | Lingyun Yu| Visual Storytellling| TBD |
 | TBD     | Tian Qiu | TBD | TBD |
 | TBD     | Yushan Pan | Requirements Engineering | TBD |
 | TBD     | *** | History | TBD |
