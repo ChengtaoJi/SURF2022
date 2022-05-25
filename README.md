@@ -48,6 +48,8 @@
 
 6, https://glam-workbench.net/
 
+7, https://www.sciencedirect.com/science/article/pii/S2468502X21000607
+
 ## Spatio-temporal Visualization 
 
 ## Digital Humanity
