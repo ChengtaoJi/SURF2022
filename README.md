@@ -56,6 +56,16 @@
 
 1, https://www.dhlib.cn/site/works/papers/type/textmining/8755.html
 
+2, https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12873
+
+3, https://docdrop.org/static/drop-pdf/Pages-from-Moretti-2007---Graphs-Maps-bkBff.pdf
+
+4, https://ieeexplore.ieee.org/document/7192666 (http://www.utahinrichs.de/uta/uploads/Publications/Publications/Hinrichs_scifi_2015.pdf)
+
+5, https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.889&rep=rep1&type=pdf
+
+6, https://knowledge.uchicago.edu/record/133?ln=en#record-files-collapse-header
+
 # Others
 ## Github formatting
 
