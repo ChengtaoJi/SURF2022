@@ -48,7 +48,7 @@
 
 6, https://glam-workbench.net/
 
-7, https://www.sciencedirect.com/science/article/pii/S2468502X21000607
+7, https://www.sciencedirect.com/science/article/pii/S2468502X21000607 (Visual storytelling of Song Ci and the poets in the social–cultural context of Song dynasty)
 
 ## Spatio-temporal Visualization 
 
