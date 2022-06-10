@@ -2,7 +2,6 @@
 
 # Unpacking the evolution of a specific cultural heritage using visual storytelling
 
-
 # Techniques
 ## D3: D3 is a powerful visualization JavaScript library, on the basis of HTML, CSS, and JavaScript.
 1, https://d3js.org/
@@ -54,6 +53,18 @@
 
 ## Digital Humanity
 
+1, https://www.dhlib.cn/site/works/papers/type/textmining/8755.html
+
+2, https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12873
+
+3, https://docdrop.org/static/drop-pdf/Pages-from-Moretti-2007---Graphs-Maps-bkBff.pdf
+
+4, https://ieeexplore.ieee.org/document/7192666 (http://www.utahinrichs.de/uta/uploads/Publications/Publications/Hinrichs_scifi_2015.pdf)
+
+5, https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.889&rep=rep1&type=pdf
+
+6, https://knowledge.uchicago.edu/record/133?ln=en#record-files-collapse-header
+
 # Others
 ## Github formatting
 
@@ -64,13 +75,12 @@
 # Meeting Schedule
 
 | **Date** | **Speaker**  | **Title**  |  **Reference** |
-| ------- | --- | ---------------- | -------- |
+| ------- | --------------- | ---------------- | -------- |
+|  10th, June, 2022, 4:30pm | Yang Xiang | Clustering | TBD |
+| TBD   | Shan Jiang | A quantitative description of the spatial–temporal distribution and evolution pattern of world cultural heritage | https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00549-6 |
 | TBD     | Lingyun Yu| Visual Storytellling| TBD |
 | TBD     | Tian Qiu | TBD | TBD |
-| TBD     | Yushan Pan | Requirements Engineering | TBD |
+| TBD     | Yushan Pan | Requirements Engineering | https://github.com/ChengtaoJi/SURF2022/blob/main/Presentation/Requirement_Engineering_YushanPan.pdf |
 | TBD     | *** | History | TBD |
 | TBD   | Chengyuan Wang| D3 Tutorial | https://d3js.org/ |
-| TBD   | Shan Jiang | A quantitative description of the spatial–temporal distribution and evolution pattern of world cultural heritage | https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00549-6 |
-|  TBD | Yang Xiang | Clustering | TBD |
 |  TBD | Yiyuan Miao | Visualization of cultural heritage |  https://researchonline.rca.ac.uk/4325/1/TimelineDesignForVisualisingCulturalHeritageData_OliviaVane_redacted.pdf |
-
