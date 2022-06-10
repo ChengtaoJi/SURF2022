@@ -76,7 +76,7 @@
 
 | **Date** | **Speaker**  | **Title**  |  **Reference** |
 | ------- | --------------- | ---------------- | -------- |
-|  10th, June, 2022, 4:30pm | Yang Xiang | Clustering | TBD |
+|  10th, June, 2022, 4:30pm | Yang Xiang | Clustering | https://github.com/ChengtaoJi/SURF2022/blob/main/Presentation/Clustering_YangXiang.pptx |
 | TBD   | Shan Jiang | A quantitative description of the spatial–temporal distribution and evolution pattern of world cultural heritage | https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00549-6 |
 | TBD     | Lingyun Yu| Visual Storytellling| TBD |
 | TBD     | Tian Qiu | TBD | TBD |
