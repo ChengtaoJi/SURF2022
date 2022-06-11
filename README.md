@@ -70,6 +70,7 @@
 
 1, https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+2, Convert handwriting into vector graphics by Inkscape: https://www.youtube.com/watch?v=0nmyOd1k_4c&ab_channel=KatieO%27Donnell-Vicente
 
 
 # Meeting Schedule
