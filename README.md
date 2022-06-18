@@ -2,6 +2,22 @@
 
 # Unpacking the evolution of a specific cultural heritage using visual storytelling
 
+
+# Meeting Schedule
+
+| **Date** | **Speaker**  | **Title**  |  **Reference** |
+| ------- | --------------- | ---------------- | -------- |
+|  10th, June, 2022, 4:30pm | Yang Xiang | Clustering | https://github.com/ChengtaoJi/SURF2022/tree/main/Presentation/XiangYang |
+|  17th, June, 2022, 4:30pm   | Chengyuan Wang| D3 Tutorial | https://github.com/ChengtaoJi/SURF2022/tree/main/Presentation/WangChengyuan |
+| TBD     | Ding Xinyi | Digital Folklore collections | TBD |
+| TBD     | Pan Yingzhuo | Visual storytelling of Song Ci and the poets in the social–cultural context of Song dynasty |  https://www.sciencedirect.com/science/article/pii/S2468502X21000607  |
+| TBD   | Shan Jiang | A quantitative description of the spatial–temporal distribution and evolution pattern of world cultural heritage | https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00549-6 |
+| TBD     | Lingyun Yu| Visual Storytellling| TBD |
+| TBD     | Tian Qiu | TBD | TBD |
+| TBD     | Yushan Pan | Requirements Engineering | https://github.com/ChengtaoJi/SURF2022/blob/main/Presentation/Requirement_Engineering_YushanPan.pdf |
+| TBD     | *** | History | TBD |
+|  TBD | Yiyuan Miao | Visualization of cultural heritage |  https://researchonline.rca.ac.uk/4325/1/TimelineDesignForVisualisingCulturalHeritageData_OliviaVane_redacted.pdf |
+
 # Techniques
 ## D3: D3 is a powerful visualization JavaScript library, on the basis of HTML, CSS, and JavaScript.
 1, https://d3js.org/
@@ -72,16 +88,3 @@
 
 2, Convert handwriting into vector graphics by Inkscape: https://www.youtube.com/watch?v=0nmyOd1k_4c&ab_channel=KatieO%27Donnell-Vicente
 
-
-# Meeting Schedule
-
-| **Date** | **Speaker**  | **Title**  |  **Reference** |
-| ------- | --------------- | ---------------- | -------- |
-|  10th, June, 2022, 4:30pm | Yang Xiang | Clustering | https://github.com/ChengtaoJi/SURF2022/tree/main/Presentation/XiangYang |
-| TBD   | Shan Jiang | A quantitative description of the spatial–temporal distribution and evolution pattern of world cultural heritage | https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00549-6 |
-| TBD     | Lingyun Yu| Visual Storytellling| TBD |
-| TBD     | Tian Qiu | TBD | TBD |
-| TBD     | Yushan Pan | Requirements Engineering | https://github.com/ChengtaoJi/SURF2022/blob/main/Presentation/Requirement_Engineering_YushanPan.pdf |
-| TBD     | *** | History | TBD |
-| TBD   | Chengyuan Wang| D3 Tutorial | https://d3js.org/ |
-|  TBD | Yiyuan Miao | Visualization of cultural heritage |  https://researchonline.rca.ac.uk/4325/1/TimelineDesignForVisualisingCulturalHeritageData_OliviaVane_redacted.pdf |
