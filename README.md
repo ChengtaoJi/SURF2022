@@ -9,7 +9,7 @@
 | ------- | --------------- | ---------------- | -------- |
 |  10th, June, 2022, 4:30pm | Yang Xiang | Clustering | https://github.com/ChengtaoJi/SURF2022/tree/main/Presentation/XiangYang |
 |  17th, June, 2022, 4:30pm   | Chengyuan Wang| D3 Tutorial | https://github.com/ChengtaoJi/SURF2022/tree/main/Presentation/WangChengyuan |
-| TBD     | Ding Xinyi | Digital Folklore collections | TBD |
+| TBD     | Ding Xinyi | Digital Folklore collections | https://github.com/ChengtaoJi/SURF2022/tree/main/Presentation/DingXinyi |
 | TBD     | Pan Yingzhuo | Visual storytelling of Song Ci and the poets in the social–cultural context of Song dynasty |  https://www.sciencedirect.com/science/article/pii/S2468502X21000607  |
 | TBD   | Shan Jiang | A quantitative description of the spatial–temporal distribution and evolution pattern of world cultural heritage | https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00549-6 |
 | TBD     | Lingyun Yu| Visual Storytellling| TBD |
